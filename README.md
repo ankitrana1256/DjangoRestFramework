@@ -1,2 +1,1 @@
-# DjangoRestFramework
-<h1>CRUD operations</h1>
+<h1>CRUD operations with Django</h1>
